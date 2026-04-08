@@ -48,6 +48,10 @@ GitHub → GitHub Actions → DockerHub → AWS EC2 → User Access
 - `EC2_USER`  
 - `EC2_SSH_KEY`
 
+**Application Working**
+
+http://15.207.20.217:8080/
+
 **screenshots/**
 
 ## 📸 Screenshots
